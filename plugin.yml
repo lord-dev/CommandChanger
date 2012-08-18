@@ -1,0 +1,9 @@
+name: CommandChanger
+main: com.github.lorddev.commandchanger.CommandChanger
+version: 0.1
+commands:
+   zasady:
+      description: Pokazuje zasady obowiazujace na serwerze.
+      usage: /<command>
+      permission: <plugin name>.zasady
+      permission-message: Nie masz uprawnien <permission>
